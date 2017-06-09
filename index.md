@@ -17,3 +17,17 @@ Project-Breyta in it's simplist form is an online (virtual) piggybank. Unlike cr
 Project-Breyta's main goal is to make you a little more rich by not losing what is yours.
 Another goal is to help promote business. Project-Breyta provides an outlet for businesses to promote, subscribe, and advertise their business. 
 As it is said, the more money the people have in their pockets the more they will spend. Our goal for businesses is to increase customer aquisition without charging an arm and a leg for it. We want the transaction process to have little effect on a businesses decision to adopt and to continue to use Project-Breyta.  
+
+## Want to sign up for the Project-Breyta Alpha-Tester? 
+What is included with the Alpha build?
+- a simple blank card will be given to you
+- fake money will be placed in your account
+- a fake brick-and-mortar store will be set up for you to test
+- a fake e-commerce store will be set up for you to test
+
+_**SIGN UP BELOW!**_
+
+<form method="POST" action="http://formspree.io/cjh30@pct.edu"
+  <input type="email" name="email" placeholder="Your email">
+  <button type="submit">Send</button>
+</form>
