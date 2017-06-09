@@ -27,6 +27,6 @@ What is included with the Alpha build?
 
 _**SIGN UP BELOW!**_
 --
-https://goo.gl/forms/zvzKQBlyD5i6QS4O2
+[github]https://goo.gl/forms/zvzKQBlyD5i6QS4O2
 
 
