@@ -26,6 +26,7 @@ What is included with the Alpha build?
 - a fake e-commerce store will be set up for you to test
 
 _**SIGN UP BELOW!**_
-[1] https://goo.gl/forms/zvzKQBlyD5i6QS4O2
+--
+https://goo.gl/forms/zvzKQBlyD5i6QS4O2
 
 
