@@ -26,5 +26,6 @@ What is included with the Alpha build?
 - a fake e-commerce store will be set up for you to test
 
 _**SIGN UP BELOW!**_
-Project_Breyta@gmail.com
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4GhiCVS4Me3sfGq8UGq-I0AZjw64fhp3LxT_4VOstNfchwQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+[1] https://goo.gl/forms/zvzKQBlyD5i6QS4O2
+
+
