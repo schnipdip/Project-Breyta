@@ -26,8 +26,5 @@ What is included with the Alpha build?
 - a fake e-commerce store will be set up for you to test
 
 _**SIGN UP BELOW!**_
+Project_Breyta@gmail.com
 
-<form method="POST" action="http://formspree.io/cjh30@pct.edu"
-  <input type="email" name="email" placeholder="Your email">
-  <button type="submit">Send</button>
-</form>
