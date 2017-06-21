@@ -1,7 +1,7 @@
 # Welcome to Project-Breyta
 
 ### What is Project-Breyta?
-Project-Breyta was conceived in the tunnels of London. While "refueling" the London pass and idea was conceived... Why can't this be done with cash? And so, like a Phoenix rising from the ashes, Project-Breyta was born.
+Project-Breyta was conceived in the tunnels of London. While "refueling" the London pass an idea was conceived... Why can't this be done with cash? And so, like a Phoenix rising from the ashes, Project-Breyta was born.
 *It's time to take back your money!*
 *It's time to save your money and earn more for your money!*
 *It's time to take control over lost money!*
@@ -28,5 +28,9 @@ What is included with the Alpha build?
 _**SIGN UP BELOW!**_
 --
 [Google Form](https://goo.gl/forms/zvzKQBlyD5i6QS4O2)
+
+**Privacy Policy**
+[Prvacy Policy]
+_changes can be made at our own discretion_
 
 
