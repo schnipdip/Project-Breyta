@@ -30,7 +30,8 @@ _**SIGN UP BELOW!**_
 [Google Form](https://goo.gl/forms/zvzKQBlyD5i6QS4O2)
 
 **Privacy Policy**
-[Prvacy Policy]
+--
+[Prvacy Policy](privacypolicy.htm)
 _changes can be made at our own discretion_
 
 
