@@ -31,7 +31,7 @@ _**SIGN UP BELOW!**_
 
 **Privacy Policy**
 --
-[Prvacy Policy](privacypolicy)
+[Privacy Policy](privacypolicy)
 
 --
 _changes can be made at our own discretion_
